@@ -1,0 +1,14 @@
+body{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: larger;
+    color: black;
+    background-color: white;
+}
+h1 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif
+    color: black;
+}
+p{
+    font-family: Verdana, Geneva, Tahoma, sans-serif
+    color: violet;
+}
